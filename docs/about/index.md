@@ -1,0 +1,33 @@
+---
+layout: doc
+title: 关于我
+lastUpdated: false
+---
+
+# 关于我
+
+与世俗和解而保持自我，与现实妥协而不忘突破
+
+## 工作
+目前任职于桂林电子科技大学MBA教育中心。
+
+自2009年起从事MBA教育管理工作。喜欢管理工作，热爱MBA教育事业。MBA教育工作是一个丰富自我的过程，既要懂管理，又要掌握信息技术。
+
+🔗[桂林电子科技大学](https://www.guet.edu.cn)    🔗[MBA教育中心](https://www.guet.edu.cn/mba)
+
+
+## 其他
+
+完美主义者和理想主义者，热衷于IT技术和新鲜科技事物，喜欢探索和创新。喜欢阅读，喜欢音乐，喜欢电影，喜欢美食，喜欢生活。
+## 联系方式
+
+地址：广西桂林市金鸡路1号  桂林电子科技大学金鸡岭校区第九教学楼
+### 微信
+
+<img src="/public/wechat.jpg" width="50%" alt="wechat">
+
+### 电子邮箱
+电子邮箱：[gxy@guetmba.com](mailto:gxy@guet.edu.cn)
+
+
+

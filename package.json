@@ -1,0 +1,21 @@
+{
+  "name": "ImGuo.xyz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://imguo.xyz",
+  "author": "Singrun",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.4"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "dependencies": {
+    "flexsearch": "^0.7.31",
+    "moment": "^2.29.4",
+    "vitepress-plugin-search": "^1.0.4-alpha.20"
+  }
+}
