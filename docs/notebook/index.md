@@ -1,15 +1,10 @@
 # 笔记
 记录日常运维笔记
 
-## Linux服务器运维
-* [部署Linux网络安装服务器](/notebook/LinuxServer/部署Linux网络安装服务器.md)
-* [DHCP服务](/notebook/LinuxServer/DHCP服务.md)
-* [DNS服务](/notebook/LinuxServer/DNS服务器.md)
-* [FTP文件服务器](/notebook/LinuxServer/FTP文件服务器.md)
-* [Linux时间服务器](/notebook/LinuxServer/Linux时间服务器.md)
-* [Linux双机热备](/notebook/LinuxServer/Linux双机热备.md)
+## [Linux服务器运维](/notebook/LinuxServer)
+## [Linux系统管理](/notebook/LinuxSystem)
 
-## Linux系统管理
+## [MySQL数据库](/notebook/MySQL)
 
 ## 运维笔记
 * [常用Git命令](/notebook/Git)
