@@ -22,12 +22,9 @@ lastUpdated: false
 ## 联系方式
 
 地址：广西桂林市金鸡路1号  桂林电子科技大学金鸡岭校区第九教学楼
-### 微信
-
-<img src="/public/wechat.jpg" width="50%" alt="wechat">
 
 ### 电子邮箱
-电子邮箱：[gxy@guetmba.com](mailto:gxy@guet.edu.cn)
+电子邮箱：[gxy@guetmba.com](mailto:gxy@guetmba.com)
 
 
 
