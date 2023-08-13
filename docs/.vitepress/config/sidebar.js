@@ -90,7 +90,7 @@ module.exports = {
       collapsible: true,
       items: [
         { text: '关于我', link: '/about/' },
-        { text: '我的作品', link: '/about/works' }
+        { text: '我的工作', link: '/about/works' }
       ]
     }
   ]
