@@ -45,7 +45,8 @@ const config = {
         docFooter: {
             prev: '上一页',
             next: '下一页'
-        },
+            },
+        outlineTitle: '本页导航',
     },
 }
 
