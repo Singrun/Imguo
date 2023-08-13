@@ -9,9 +9,11 @@ var options = {
   previewLength: 100, 
   buttonLabel: "搜索",
   placeholder: "请输入关键词",
-  lang: 'zh',
+  lang: "zh",
   allow: [],
   ignore: [],
+  encode: false,
+  tokenize: "full"
 };
 
 export default defineConfig({
