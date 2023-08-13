@@ -1,3 +1,6 @@
+---
+layout: doc
+---
 # 一、docker安装
 
 Docker 是管理容器的工具， Docker 不等于 容器。
