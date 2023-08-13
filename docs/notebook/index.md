@@ -1,10 +1,12 @@
 # 笔记
 记录日常运维笔记
 
-## [Linux服务器运维](/notebook/LinuxServer)
-## [Linux系统管理](/notebook/LinuxSystem)
+## Linux服务器运维
+## Linux系统管理
 
-## [MySQL数据库](/notebook/MySQL)
+## MySQL数据库
+
+## Docker容器实战部署
 
 ## 运维笔记
 * [常用Git命令](/notebook/Git)
