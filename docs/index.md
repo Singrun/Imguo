@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: 郭星宇
-  text: Personal website
+  text: Personal Website
   tagline: 热爱可抵岁月漫长
   image:
     src: ./home.svg
