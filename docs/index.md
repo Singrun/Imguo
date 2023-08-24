@@ -21,7 +21,7 @@ features:
     details: 桂林电子科技大学MBA教育中心 执行主任<br/>会计学专业出身，从事MBA教育工作的程序员
   - icon: 🧩
     title: 兴趣爱好
-    details: IT技术，PHP、Mysql、Python、JavaScript、Vue等前后端开发，大型项目设计开发，Linux服务器运维，全栈工程师。
+    details: 专注IT技术，PHP、Python、JavaScript、Vue等前后端开发，Mysql、Redis等数据库开发，Linux服务器运维，相当于全栈工程师。
   - icon: 🤝
     title: 欢迎交流
     details: 保持联系

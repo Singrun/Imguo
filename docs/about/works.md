@@ -14,7 +14,7 @@ lastUpdated: false
 * [MBA综合管理平台](https://mba.guet.edu.cn)
 ![web](/img/web.png)
 * [MBA教育中心官网](https://www.guet.edu.cn/mba)
-* ![web](/img/mba.png)
+![web](/img/mba.png)
 * [商学院官网](https://www.guet.edu.cn/dept5)
 
 ## PowerPoint
